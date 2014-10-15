@@ -39,7 +39,7 @@ Other names may be trademarks of their respective owners.
 -->
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
   <display-name>
-        Java EE 6 Pet Catalog
+        Aero
     </display-name>
   <context-param>
     <param-name>javax.faces.STATE_SAVING_METHOD</param-name>

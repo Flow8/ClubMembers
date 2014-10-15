@@ -10,5 +10,5 @@ package model;
  * @author florian
  */
 public class Javaaaa {
-    Yo ;yeah; Lol
+    //Yo ;yeah; Lol
 }
